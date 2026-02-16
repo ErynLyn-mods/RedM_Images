@@ -1,6 +1,0 @@
-.gitattributes
-character_creation
-pants
-shirts
-shoes
-skirts
