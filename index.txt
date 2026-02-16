@@ -1,6 +1,5 @@
 .gitattributes
 character_creation
-index.txt
 pants
 shirts
 shoes
